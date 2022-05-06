@@ -1,2 +1,2 @@
-# PR-CTICAS
+# PRÁCTICAS
 Actividad 2.3.1 Creo programas para resolver problemática en un lenguaje de programación...
